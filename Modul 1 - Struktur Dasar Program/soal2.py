@@ -1,7 +1,9 @@
 # PROGRAM CERMIN KURSI
 # Cermin Kursi posisi dua dimensi
+
 # KAMUS
 # n, m, k, cermin : int
+
 # ALGORITMA
 
 # Masukkan nilai n, m, dan k

@@ -1,8 +1,10 @@
 # PROGRAM Kembalian
 # Menyusun kembalian menggunakan pecahan 50.000, 
 #   20.000, 10.000, 5.000, dan 1.000
+
 # KAMUS
 # p, b, k, lima_puluh, dua_puluh, sepuluh, lima, satu : int
+
 # ALGORITMA
 
 # Pertama, kita masukkan masing-masing jumlah pembayaran

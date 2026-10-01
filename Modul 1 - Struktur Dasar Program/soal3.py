@@ -1,7 +1,9 @@
 # PROGRAM DENDA TERLAMBAT
 # Menghitung denda dari keterlambatan.
+
 # KAMUS
 # t, b : int
+
 # ALGORITMA
 
 # Kurang lebih konsepnya sama seperti soal1
