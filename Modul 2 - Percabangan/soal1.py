@@ -15,8 +15,8 @@ n = int(input("Masukkan nilai n: "))
 
 if (n > 0):
     # Karena kita tidak ingin membuat baris baru (enter)
-    #, end di printnya kita beri argumen end='' 
-    print(f"{n} bilangan positif ", end='')
+    #, setiap akhir print membuat spasi dengan end=' ' 
+    print(f"{n} bilangan positif", end=' ')
     
     # Jika n mod 2 hasilnya nol atau terbagi habis
     # , n adalah bilangan genap
